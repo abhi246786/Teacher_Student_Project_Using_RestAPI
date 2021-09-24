@@ -1,13 +1,15 @@
-## Python School
+
 
 # REST-API-in-Django-using-Django-REST-Framework.
 REST API in Django using Django REST Framework.
 
+1. User Sign Up/Forgot Password APIs. 
+2. Uses JWT authentication. 
+3. Must define 3 user levels: 1. Super-admin, 2. Teacher, 3. Student (Useinternal Django Groups to achieve the same). 
+4. Teacher must be able to add/list the students. 
+5. Admin must be able to add/list every user in the database.
+6. Students must be able to see his information only. 
 
-[![Python Version](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://python.org)
-[![Django Version](https://img.shields.io/badge/django-1.11-brightgreen.svg)](https://djangoproject.com)
-
-This is an example project to illustrate an implementation of REST API in Django using Django REST Framework with multiple user types. In this Django app, teachers can upload and send marksheets of students. Students can see their marksheet if they are registered on the application or can download it directly from the email.
 
 ## urls
 
