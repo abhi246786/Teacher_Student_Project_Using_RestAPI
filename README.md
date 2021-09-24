@@ -31,7 +31,7 @@ http://127.0.0.1:8000/
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/jamilnoyda/Make-REST-API-in-Django-using-Django-REST-Framework..git
+git clone https://github.com/abhi246786/Teacher_Student_Project_Using_RestAPI
 ```
 
 
@@ -56,7 +56,3 @@ python manage.py runserver
 
 The project will be available at **127.0.0.1:8000**.
 
-
-## License
-
-The source code is released under the [MIT License](https://github.com/sibtc/django-multiple-user-types-example/blob/master/LICENSE).
